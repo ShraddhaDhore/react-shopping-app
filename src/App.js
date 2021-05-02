@@ -1,4 +1,5 @@
 import React from 'react'
+//feature 1
 import './App.css';
 import data from './data.json'
 import Products from './components/Products';
